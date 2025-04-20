@@ -1,0 +1,101 @@
+
+
+#bg {
+    background-image: url(y2.jpg)
+}
+
+.clr {
+    background-color:black
+    
+}
+.clr{
+ color: burlywood
+}
+
+
+.r {
+    background-color:coral;
+}
+
+
+#bo {
+    background-color:brown
+}
+
+.col {
+    color:floralwhite
+}
+    
+
+.hi {
+    background-color: aqua
+}
+
+#hi {
+     background-image: url(allyo.png)
+}
+
+.bt {
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+</style>
+}
+
+.a {
+    text-align: center
+}
+#bf {
+    background-image: url(h1.jpg)
+  
+}
+
+.bn {
+    background-color:gold
+    
+}
+.bn{
+ color:brown
+}
+
+.bn1 {
+    
+ background-color:red
+    
+}
+.b1{
+ color:brown
+}
+#bf1 {
+    background-image: url(hh2.jpg)
+  
+}
+
+
+
+#bk {
+    background-color:khaki
+}
+
+.a {
+    background-color: crimson
+}
